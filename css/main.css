@@ -1,0 +1,77 @@
+body{
+background-color: #ccc;
+color:#fff;
+font-family: arial;
+}
+.one{
+background-color: green;
+min-height: 200px;
+padding: 2.5%;
+}
+.two{
+background-color: yellow;
+min-height: 200px;
+padding: 2.5%;
+}
+.three{
+background-color: red;
+min-height: 200px;
+padding: 2.5%;
+}
+.four{
+background-color: blue;
+min-height: 200px;
+padding: 1.66%;
+}
+.five{
+background-color: purple;
+min-height: 200px;
+padding: 1.66%;
+}
+.six{
+background-color: pink;
+min-height: 200px;
+padding: 1.66%;
+}
+.seven{
+background-color: orange;
+min-height: 200px;
+padding: 1.66%;
+}
+.eight{
+background-color: gray;
+min-height: 200px;
+padding: 1.66%;
+}
+.one h1{
+font-size: 5vw;
+}
+.four h2{
+font-size: 5vw;
+}
+.ones h1{
+font-size: 5vw;
+}
+.five img{
+width: 100%;
+}
+.six img{
+width: 100%;
+}
+.seven img{
+width: 100%;
+}
+.eight img{
+width: 100%;
+}
+.my-panel{
+width: 30%;
+float: left;
+padding: 2.5%;
+}
+@media screen and (max-width: 600px;){
+.my-panel{
+width: 98%;
+padding: 1%;
+}
+}
